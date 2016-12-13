@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-**Resume: **
+**Resume:**
 [Click Here](https://jonscott20.github.io/Files/Documents/Jon_Scott_Resume.pdf)
 
 
