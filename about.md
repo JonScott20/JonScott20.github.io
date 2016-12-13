@@ -4,6 +4,10 @@ title: About Me
 permalink: /about/
 ---
 
+**Resume: **
+[Click Here](https://jonscott20.github.io/Files/Documents/Jon_Scott_Resume.pdf)
+
+
 I'm a computer science student born and raised in the state of Idaho. I choose to pursue a higher education at Cal Poly for its reputable computer science program.
 
 My first "Hello World" program was when I was a freshman in high school in an elective course I choose to take on a whim. For my senior project, I created an organizational application for the iPad that I called the "DigiGenda."
