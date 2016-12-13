@@ -4,5 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-This is where I'll put linkes to my projects and code samples.
+This is where I'll put links to my projects and code samples.
+
+[Bubble Sort](https://jonscott20/Bubble_Sort/BubbleSort)
 
