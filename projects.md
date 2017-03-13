@@ -18,16 +18,22 @@ In order to promote academic honesty, I am only willing to share code samples fr
 CPE 357 - Systems Programming (Kurt Mammen Winter Quarter 2017)
 
 **Project 1 - Mastermind**
-  Wikipedia explanation of the [Mastermind] (https://en.wikipedia.org/wiki/Mastermind_(board_game))
+
+Wikipedia explanation of the [Mastermind] (https://en.wikipedia.org/wiki/Mastermind_(board_game))
   
 **Project 2 - Word Count**
+
 
 **Project 3 - Word Frequency**
 
 **Project 4 - Battleship**
-  This was by far my favorite project of the class. It was an exercise in using fork, exec in order to create 
+
+This was by far my favorite project of the class. It was an exercise in using fork, exec in order to create multiple processes and pass information between them via pipes.
+
+The class was then given the opportunity to create a player to compete in a tournament against the rest of the players in the class.
   
 **Project 5 - C Shell**
 
 **Project 6 - LZW Compression**
 
+The LZW compression algorithm paired with bit packing and recycling with codes between 2^9 and 2^15
