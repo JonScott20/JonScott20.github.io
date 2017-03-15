@@ -22,7 +22,7 @@ Course Description: C programming language from a system programming perspective
 
 **Project 1 - Mastermind**
 
-Wikipedia explanation of the [Mastermind] (https://en.wikipedia.org/wiki/Mastermind_(board_game))
+Wikipedia explanation of the [Mastermind](https://en.wikipedia.org/wiki/Mastermind_(board_game))
   
 **Project 2 - Word Count**
 
@@ -38,6 +38,7 @@ The class was then given the opportunity to create a player to compete in a tour
 
 ![Project 4 Tournament Results](https://jonscott20.github.io/Files/Documents/Project4Tournament.png)
 
+<img src="https://jonscott20.github.io/Files/Documents/Project4Tournament.png" alt="Smiley face" align="middle">
 
 
 
