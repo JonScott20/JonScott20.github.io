@@ -37,6 +37,8 @@ The class was then given the opportunity to create a player to compete in a tour
 
 ![Project 4 Tournament Results](https://jonscott20.github.io/Files/Documents/Project4Tournament.png){:class="img-responsive"}
 
+<img style="float: right;" src="https://jonscott20.github.io/Files/Documents/Project4Tournament.png">
+
 
 
   
