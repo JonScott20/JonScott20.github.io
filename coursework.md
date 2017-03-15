@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Class Work
-permalink: /class_work/
+title: Course Work
+permalink: /course_work/
 ---
 
 Course Work from the California Polytechnic State University, San Luis Obispo
