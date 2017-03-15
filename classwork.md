@@ -43,11 +43,11 @@ The class was then given the opportunity to create a player to compete in an opt
 I decided that I would get the most benefit from focusing on the offensive part of the game. I chose to break down how the next shot was selected into two modes: mode 1: hunt and mode 2: destroy. I referenced a post on [datagentics.com](http://datagenetics.com/blog/december32011/index.html) in order to design my strategy. 
 
 
-**Hunt**
+**Hunt Mode: **
 The hunt mode takes advantage of the parity in a 10x10 standard battleship board. Even the smallest ship, the patrol boat, must occupy at least one even parity square. So I created a list of all even squares and worked my way through the list until getting a hit, which would trigger the destroy mode. Instead of starting in a corner, I chose to start shooting at squares in the middle of the board and work my way out in a clockwise fashion. 
 
 
-**Destroy**
+**Destroy Mode: **
 Everytime a hit was registered, all the surrounding squares that immediately bordered the hit location (excluding diagonals) were to be pushed onto a stack data structure. Successive shots were the popped off the stack and checked for validity (not out-of-bounds and the square as not already been shot at) until no further shots remained on the stack, and the player returns to hunt mode.
 
 **If there was more time...**
