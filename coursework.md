@@ -10,32 +10,32 @@ All of my work done as a student at Cal Poly is covered under a collaboration ag
 In order to promote academic honesty, I am only willing to share code samples from the projects when contacted individually.
 Project specifications are also availabe upon request.
 
-CPE 357 - Systems Programming
+*CPE 357 - Systems Programming
 ---------------------------------
 
 Kurt Mammen Winter Quarter 2017
 
 Course Description: C programming language from a system programming perspective. Standard C language including operators, I/O functions, and data types in the context of system functions. Unix commands, shell scripting, file system, editors.
 
-LZW Compression
+-LZW Compression
 =================================
 
 The LZW compression algorithm paired with bit packing and recycling with codes between 2^9 and 2^15.
 
-C Shell
+-C Shell
 =================================
 
-Mastermind
+-Mastermind
 =================================
 Wikipedia explanation of the [Mastermind](https://en.wikipedia.org/wiki/Mastermind_(board_game))
   
-Word Count
+-Word Count
 =================================
 
-Word Frequency
+-Word Frequency
 =================================
 
-  [Battleship](https://jonscott20.github.io/battleship)
+-[Battleship](https://jonscott20.github.io/battleship)
 
 This was by far my favorite project of the class. It was an exercise in using fork, exec in order to create multiple processes and pass information between them via pipes in order to create a simulation of the classic Battleship board game.
 
