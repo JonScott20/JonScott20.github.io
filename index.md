@@ -1,5 +1,14 @@
 ![JScottFormal](https://jonscott20.github.io/Files/Documents/smallFormal.jpeg)
 
+### Autobiography
+
+
+### Education
+
+#### California Polytechnic State University, San Luis Obispo, California
+
+#### Wood River High School, Hailey, Idaho
+
 I'm a computer science student born and raised in the state of Idaho. I choose to pursue a higher education at Cal Poly for its reputable computer science program.
 
 My first "Hello World" program was when I was a freshman in high school in an elective course I choose to take on a whim. For my senior project, I created an organizational application for the iPad that I called the "DigiGenda."
@@ -11,7 +20,8 @@ I enjoy spending time outdoors, whether it be hiking, swimming, or skiing. I spe
 
 One of my "adult" goals is to adopt a canine companion. I'm currently torn between a Golden Retriever and a German Shepherd. 
 
-I don't have the desire to end up working in some dream location, I very much feel comfortable with the idea of living anywhere.
+
+### Aspirations
 
 One day I hope fulfill my childhood dream of flying and obtain my pilot's license.
 
