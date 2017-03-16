@@ -15,7 +15,7 @@ Project specifications are also availabe upon request.
 Kurt Mammen Winter Quarter 2017
 Course Description: C programming language from a system programming perspective. Standard C language including operators, I/O functions, and data types in the context of system functions. Unix commands, shell scripting, file system, editors.
 
-#####Project 1 - Mastermind
+#####Project 1 - Mastermind#####
 
 Wikipedia explanation of the [Mastermind](https://en.wikipedia.org/wiki/Mastermind_(board_game))
   
