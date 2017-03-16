@@ -1,6 +1,6 @@
 ---
 layout: page
-title: hidden
+title: Battleship
 permalink: battleship
 ---
 
