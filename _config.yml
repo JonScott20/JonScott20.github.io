@@ -10,7 +10,7 @@ title: Jon T. Scott
 email: JonScott20@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Jon T. Scott is a computer science student at Cal Poly San Luis Obispo.
-  He is an aspiring software developer who takes pride in his work and enjoys contributing to a cohesive team projects.
+  He is an aspiring software developer who takes pride in his work and enjoys contributing to cohesive team projects.
   Born and raised in the small town of Hailey, Idaho, he relocated to California for the booming tech industry.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
