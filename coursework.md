@@ -18,6 +18,7 @@ Course Description: C programming language from a system programming perspective
 
 **LZW Compression**
 -------------------------------
+The LZW compression algorithm paired with bit packing and recycling with codes between 2^9 and 2^15.
 
 **C Shell**
 ------------
@@ -52,11 +53,3 @@ Everytime a hit was registered, all the surrounding squares that immediately bor
 **If there was more time...**
 
 I would have liked to beefed up the defensive capabilities of my player. As it was, I created three different boards and merely cycled through them after each game. A random placement of ships would have been a good counter to any shot history implementations my opponents may have used. 
-
-
-  
-
-
-
-The LZW compression algorithm paired with bit packing and recycling with codes between 2^9 and 2^15
-
