@@ -15,18 +15,18 @@ Project specifications are also availabe upon request.
 Kurt Mammen Winter Quarter 2017
 Course Description: C programming language from a system programming perspective. Standard C language including operators, I/O functions, and data types in the context of system functions. Unix commands, shell scripting, file system, editors.
 
-###**Project 1 - Mastermind**
+#####**Project 1 - Mastermind**
 
 Wikipedia explanation of the [Mastermind](https://en.wikipedia.org/wiki/Mastermind_(board_game))
   
-###**Project 2 - Word Count**
+#####**Project 2 - Word Count**
 
 
 
-###**Project 3 - Word Frequency**
+#####**Project 3 - Word Frequency**
 
 
-###**Project 4 - Battleship**
+#####**Project 4 - Battleship**
 
 This was by far my favorite project of the class. It was an exercise in using fork, exec in order to create multiple processes and pass information between them via pipes in order to create a simulation of the classic Battleship board game.
 
@@ -49,10 +49,10 @@ I would have liked to beefed up the defensive capabilities of my player. As it w
 
 
   
-###**Project 5 - C Shell**
+#####**Project 5 - C Shell**
 ------------------------------------------------------------------------------------------------------------------------------
 
-###**Project 6 - LZW Compression**
+#####**Project 6 - LZW Compression**
 ------------------------------------------------------------------------------------------------------------------------------
 
 The LZW compression algorithm paired with bit packing and recycling with codes between 2^9 and 2^15
