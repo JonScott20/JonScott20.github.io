@@ -1,4 +1,4 @@
-![JScottFormal](https://jonscott20.github.io/Files/Documents/smallFormal.jpeg)
+![JScottFormal](https://jonscott20.github.io/Files/Images/smallFormal.jpeg)
 
 ### Introduction
 
