@@ -1,7 +1,4 @@
-**Resume:**
-[Click Here](https://jonscott20.github.io/Files/Documents/Resume03-16-17.pdf)
-
-
+![JScottFormal](https://jonscott20.github.io/Files/Documents/JScottFormal.jpg)
 
 I'm a computer science student born and raised in the state of Idaho. I choose to pursue a higher education at Cal Poly for its reputable computer science program.
 
@@ -14,3 +11,6 @@ One of my "adult" goals is to adopt a canine companion. I'm currently torn betwe
 I don't have the desire to end up working in some dream location, I very much feel comfortable with the idea of living anywhere.
 
 One day I hope fulfill my childhood dream of flying and obtain my pilot's license.
+
+**Resume:**
+[Click Here](https://jonscott20.github.io/Files/Documents/Resume03-16-17.pdf)
