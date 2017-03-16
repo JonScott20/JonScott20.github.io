@@ -13,11 +13,11 @@ Project specifications are also availabe upon request.
 CPE 357 - Systems Programming
 ---------------------------------
 
+Course Description: C programming language from a system programming perspective. Standard C language including operators, I/O functions, and data types in the context of system functions. Unix commands, shell scripting, file system, editors.
+
 Instructor: Kurt Mammen
 
 Winter Quarter 2017
-
-Course Description: C programming language from a system programming perspective. Standard C language including operators, I/O functions, and data types in the context of system functions. Unix commands, shell scripting, file system, editors.
 
 **Projects**
 
