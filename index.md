@@ -1,27 +1,33 @@
 ![JScottFormal](https://jonscott20.github.io/Files/Documents/smallFormal.jpeg)
 
-### Autobiography
+### Introduction
 
+Welcome! My name is Jon Scott and this is my professional website where I showcase the projects I've completed over the course of my formal education, as well as any independent projects. 
 
+A little bit about myself, I was born and raised in the small town of Hailey, Idaho. Organized sports were a big part of my life during my younger years, in particular soccer and basketball. Through my experiences in athletics, I learned how to step into specific roles and perform specific functions and contribute towards the overall success of the team. 
+
+### Hobbies
+
+- Soccer
+- Basketball
+- Archery
+- Hiking
+- Camping
+- Casual Golf
+
+### Dreams, Aspirations, Goals
+* Obtain Recreational Pilot's License
+* Travel to Australia
+* Visit Brazilian Foreign Exchange Student
 
 ### Education
 
 #### California Polytechnic State University, San Luis Obispo, California
+
 ##### Bachelor of Science, Computer Science: Expected Graduation Spring 2019
 
 #### Wood River High School, Hailey, Idaho
-
-I'm a computer science student born and raised in the state of Idaho. I choose to pursue a higher education at Cal Poly for its reputable computer science program.
-
-My first "Hello World" program was when I was a freshman in high school in an elective course I choose to take on a whim. For my senior project, I created an organizational application for the iPad that I called the "DigiGenda."
-
-### Hobbies
-
-I enjoy spending time outdoors, whether it be hiking, swimming, or skiing. I spent a considerable amount of time playing sports in high school, primarily soccer and basketball, where I learned the value of being both a good leader and good teammate.
-
-### Aspirations
-
-One day I hope fulfill my childhood dream of flying and obtain my pilot's license.
+- Graduated June 2015 as Valedictorian
 
 **Resume:**
 [Click Here](https://jonscott20.github.io/Files/Documents/Resume03-16-17.pdf)
