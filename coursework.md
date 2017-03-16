@@ -35,7 +35,7 @@ Word Count
 Word Frequency
 =================================
 
-Battleship
+[Battleship](https://jonscott20.github.io/battleship/)
 =================================
 
 This was by far my favorite project of the class. It was an exercise in using fork, exec in order to create multiple processes and pass information between them via pipes in order to create a simulation of the classic Battleship board game.
