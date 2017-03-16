@@ -1,4 +1,4 @@
-![JScottFormal](https://jonscott20.github.io/Files/Documents/JScottFormal.jpg =250x)
+![JScottFormal](https://jonscott20.github.io/Files/Documents/JScottFormal.jpg){:height="250px" width="250px"}
 
 I'm a computer science student born and raised in the state of Idaho. I choose to pursue a higher education at Cal Poly for its reputable computer science program.
 
