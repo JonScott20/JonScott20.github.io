@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Welcome! My name is Jon Scott and this is my professional website. Among the pages here, you'll find formal educational projects, independent projects, and community service involvement. 
+Welcome! My name is Jon Scott and this is my professional website. Among the pages here, you'll find formal educational projects, independent projects, and community involvement. 
 
 A little bit about myself, I was born and raised in the small town of Hailey, Idaho. Organized sports were a big part of my life during my younger years, in particular soccer and basketball. Through my experiences in athletics, I learned how to step into specific roles and perform specific functions and contribute towards the overall success of the team. 
 
