@@ -34,6 +34,11 @@ This was by far my favorite project of the class. It was an exercise in using fo
 
 The class was then given the opportunity to create a player to compete in an optional tournament against the rest of the players in the class for additional credit. Of 105 people in two sections of the class, only around 30 people qualified to compete in the tournament. The image below is how I ranked among those who qualifed. My username is Jscott24, highlighted green. The instructor joined in the fun too - his username was kmammen, highlighted blue.
 
+| - | - |
+|---|---|
+| I am text to the left  | ![Project 4 Tournament Results](https://jonscott20.github.io/Files/Documents/Project4Tournament.png) |
+| ![Project 4 Tournament Results](https://jonscott20.github.io/Files/Documents/Project4Tournament.png) | I am text to the right |
+
 ![Project 4 Tournament Results](https://jonscott20.github.io/Files/Documents/Project4Tournament.png) | 
 **My strategy**
 
