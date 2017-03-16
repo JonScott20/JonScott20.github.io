@@ -21,14 +21,14 @@ Course Description: C programming language from a system programming perspective
 
 **Projects**
 
-- [LZW Compression](https://jonscott20.github.io/projects/lzwcompression)
+- [LZW Compression](https://jonscott20.github.io/lzwcompression)
 
-- [C Shell](https://jonscott20.github.io/projects/cshell)
+- [C Shell](https://jonscott20.github.io/cshell)
 
-- [Battleship](https://jonscott20.github.io/projects/battleship)
+- [Battleship](https://jonscott20.github.io/battleship)
 
-- [Word Frequency](https://jonscott20.github.io/projects/wordfrequency)
+- [Word Frequency](https://jonscott20.github.io/wordfrequency)
 
-- [Word Count](https://jonscott20.github.io/projects/wordcount)
+- [Word Count](https://jonscott20.github.io/wordcount)
 
-- [Mastermind](https://jonscott20.github.io/projects/mastermind)
+- [Mastermind](https://jonscott20.github.io/mastermind)
