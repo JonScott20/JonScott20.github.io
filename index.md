@@ -1,5 +1,6 @@
 **Resume:**
-[Click Here](https://jonscott20.github.io/Files/Documents/Jon_Scott_Resume.pdf)
+[Click Here](https://jonscott20.github.io/Files/Documents/Resume03-16-17.pdf)
+
 
 
 I'm a computer science student born and raised in the state of Idaho. I choose to pursue a higher education at Cal Poly for its reputable computer science program.
