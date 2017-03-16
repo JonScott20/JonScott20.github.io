@@ -17,14 +17,14 @@ Kurt Mammen Winter Quarter 2017
 
 Course Description: C programming language from a system programming perspective. Standard C language including operators, I/O functions, and data types in the context of system functions. Unix commands, shell scripting, file system, editors.
 
-- [LZW Compression](https://jonscott20.github.io/lzwcompression)
+- [LZW Compression](https://jonscott20.github.io/projects/lzwcompression)
 
-- [C Shell](https://jonscott20.github.io/cshell)
+- [C Shell](https://jonscott20.github.io/projects/cshell)
 
-- [Battleship](https://jonscott20.github.io/battleship)
+- [Battleship](https://jonscott20.github.io/projects/battleship)
 
-- [Word Frequency](https://jonscott20.github.io/wordfrequency)
+- [Word Frequency](https://jonscott20.github.io/projects/wordfrequency)
 
-- [Word Count](https://jonscott20.github.io/wordcount)
+- [Word Count](https://jonscott20.github.io/projects/wordcount)
 
-- [Mastermind](https://jonscott20.github.io/battleship)
+- [Mastermind](https://jonscott20.github.io/projects/mastermind)
