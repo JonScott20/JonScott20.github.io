@@ -25,3 +25,4 @@ Everytime a hit was registered, all the surrounding squares that immediately bor
 
 I would have liked to beefed up the defensive capabilities of my player. As it was, I created three different boards and merely cycled through them after each game. A random placement of ships would have been a good counter to any shot history implementations my opponents may have used. 
 
+[Return to coursework](https://jonscott20.github.io/course_work/)
