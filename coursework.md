@@ -21,14 +21,14 @@ Winter Quarter 2017
 
 **Projects**
 
-- [LZW Compression](https://jonscott20.github.io/lzwcompression)
+- [LZW Compression - Under Construction](https://jonscott20.github.io/lzwcompression)
 
-- [C Shell](https://jonscott20.github.io/cshell)
+- [C Shell - Under Construction](https://jonscott20.github.io/cshell)
 
 - [Battleship](https://jonscott20.github.io/battleship)
 
-- [Word Frequency](https://jonscott20.github.io/wordfrequency)
+- [Word Frequency - Under Construction](https://jonscott20.github.io/wordfrequency)
 
-- [Word Count](https://jonscott20.github.io/wordcount)
+- [Word Count - Under Construction](https://jonscott20.github.io/wordcount)
 
-- [Mastermind](https://jonscott20.github.io/mastermind)
+- [Mastermind - Under Construction](https://jonscott20.github.io/mastermind)
