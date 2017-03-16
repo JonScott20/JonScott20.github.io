@@ -7,7 +7,7 @@
 ### Education
 
 #### California Polytechnic State University, San Luis Obispo, California
-##### Bachelor of Computer Science, Expected Graduation Spring 2019
+##### Bachelor of Science, Computer Science: Expected Graduation Spring 2019
 
 #### Wood River High School, Hailey, Idaho
 
