@@ -8,7 +8,7 @@ Welcome! My name is Jon Scott and this is my professional website. Among the pag
 [community involvement](https://jonscott20.github.io/community_involvment/), and complete 
 [employment history](https://jonscott20.github.io/employment/). 
 
-A little bit about myself, I was born and raised in the small town of Hailey, Idaho. Organized sports were a big part of my life during my younger years, in particular soccer and basketball. Through my experiences in athletics, I learned how to step into specific roles and perform specific functions and contribute towards the overall success of the team. 
+A little bit about myself, I was born and raised in the small town of Hailey, Idaho which is about a 20 minute drive from the Sun Valley Ski Resort. Organized sports were a big part of my life during my younger years, in particular soccer and basketball. Through my experiences in athletics, I learned how to step into specific roles and perform specific functions and contribute towards the overall success of the team. 
 
 ### Hobbies
 
