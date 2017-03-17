@@ -25,7 +25,7 @@ Winter Quarter 2017
 
 --------
 
-[CPE 123 - Computational Art]((https://jonscott20.github.io/cpe123)
+[CPE 123 - Computational Art](https://jonscott20.github.io/cpe123)
 ------------------------------
 
 Course Description: 
