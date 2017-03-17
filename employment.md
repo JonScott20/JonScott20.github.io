@@ -4,7 +4,7 @@ title: Employment
 permalink: /employment/
 ---
 
-## Rental Car Counter Agent
+### Rental Car Counter Agent
 
 **Company:** Hertz (Indepentent Licensee)
 
@@ -18,7 +18,7 @@ Trained to manage a reservation manifest in order to open and close rental car c
 
 
 
-#### Construction Laborer
+### Construction Laborer
 
 **Company:** Bradley Construction North, Inc.
 
@@ -31,10 +31,14 @@ Trained to manage a reservation manifest in order to open and close rental car c
 Construction Laborer, Bradley Construction North Inc. (Hailey, ID)   June – September 2015, 2016
 Learned and performed demolition, roofing, framing, siding, soffit, concrete, and finish work
 
-**Position:** Allen and Company Conference in Sun Valley, Seasonal Employee
+### Allen and Company Conference in Sun Valley, Seasonal Employee
+
 **Company:** Hertz (Overland West Inc.)
+
 **Location:** Hailey, Idaho
+
 **Period of Employment:** July 2013, 2014, 2015, 2016
+
 **Weekly Time Committment:** The employment for the event runs over a ten day span in July in which the average number of hours worked comes out to between 80-90 hours for each year of the event.
 
 Delivered vehicles to clients disembarking from private aircraft, attended to their luggage, and led them to the resort
