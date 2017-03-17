@@ -4,7 +4,7 @@ title: Employment
 permalink: /employment/
 ---
 
-**Position:** Rental Car Counter Agent
+#### Rental Car Counter Agent
 
 **Company:** Hertz (Indepentent Licensee)
 
@@ -18,7 +18,7 @@ Trained to manage a reservation manifest in order to open and close rental car c
 
 
 
-**Position:** Construction Laborer
+#### Construction Laborer
 
 **Company:** Bradley Construction North, Inc.
 
