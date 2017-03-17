@@ -45,3 +45,5 @@ Learned and performed demolition, roofing, framing, siding, soffit, concrete, an
 
 Delivered vehicles to clients disembarking from private aircraft, attended to their luggage, and led them to the resort
 Assisted in cataloguing and organizing the return of rental vehicles in preparation for rapid relocation to alternate Hertz locations in Boise, Bozeman, and Rock Springs
+
+[Return to Home](https://jonscott20.github.io/)
