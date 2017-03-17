@@ -25,6 +25,19 @@ Winter Quarter 2017
 
 --------
 
+[CPE 103 - Computational Art](https://jonscott20.github.io/cpe103)
+------------------------------
+
+Course Description: 
+
+Instructor: Julie Workman
+
+Fall 2016
+
+[Click here to view projects](https://jonscott20.github.io/cpe103)
+
+-------
+
 [CPE 123 - Computational Art](https://jonscott20.github.io/cpe123)
 ------------------------------
 
