@@ -31,6 +31,8 @@ Trained to manage a reservation manifest in order to open and close rental car c
 Construction Laborer, Bradley Construction North Inc. (Hailey, ID)   June – September 2015, 2016
 Learned and performed demolition, roofing, framing, siding, soffit, concrete, and finish work
 
+-------------
+
 ### Allen and Company Conference in Sun Valley, Seasonal Employee
 
 **Company:** Hertz (Overland West Inc.)
