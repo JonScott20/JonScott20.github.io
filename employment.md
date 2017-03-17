@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Employment History
+title: Employment
 permalink: /employment/
 ---
 
