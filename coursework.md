@@ -32,3 +32,5 @@ Winter Quarter 2017
 - [Word Count - Under Construction](https://jonscott20.github.io/wordcount)
 
 - [Mastermind - Under Construction](https://jonscott20.github.io/mastermind)
+
+[Return to Home](https://jonscott20.github.io/)
