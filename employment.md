@@ -4,7 +4,7 @@ title: Employment
 permalink: /employment/
 ---
 
-#### Rental Car Counter Agent
+## Rental Car Counter Agent
 
 **Company:** Hertz (Indepentent Licensee)
 
