@@ -2,7 +2,11 @@
 
 ### Introduction
 
-Welcome! My name is Jon Scott and this is my professional website. Among the pages here, you'll find formal educational projects, independent projects, community involvement, and complete employment history. 
+Welcome! My name is Jon Scott and this is my professional website. Among the pages here, you'll find 
+[formal educational projects](https://jonscott20.github.io/course_work/), 
+[independent projects](https://jonscott20.github.io/personal_projects/), 
+[community involvement](https://jonscott20.github.io/community_involvment/), and complete 
+[employment history](https://jonscott20.github.io/employment/). 
 
 A little bit about myself, I was born and raised in the small town of Hailey, Idaho. Organized sports were a big part of my life during my younger years, in particular soccer and basketball. Through my experiences in athletics, I learned how to step into specific roles and perform specific functions and contribute towards the overall success of the team. 
 
