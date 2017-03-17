@@ -4,9 +4,11 @@ title: Course Work
 permalink: /course_work/
 ---
 
+Notes taken in class can be found [here](https://jonscott20.github.io/course_notes/)
+
 Course Work from the California Polytechnic State University, San Luis Obispo
 
-All of my work done as a student at Cal Poly is covered under a collaboration agreement. 
+All of my code written as a student at Cal Poly is covered under a collaboration agreement. 
 In order to promote academic honesty, I am only willing to share code samples from the projects when contacted individually.
 Project specifications are also availabe upon request.
 
