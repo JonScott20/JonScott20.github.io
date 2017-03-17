@@ -16,5 +16,7 @@ permalink: /community_involvment/
 The growing grounds website: <http://www.growinggroundsfarm.org/>
 
 
+[Return to Home](https://jonscott20.github.io/)
+
 
 
