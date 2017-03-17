@@ -19,7 +19,7 @@ Course Description: C programming language from a system programming perspective
 
 Instructor: Kurt Mammen
 
-Winter Quarter 2017
+Winter 2017
 
 [Click here to view projects](https://jonscott20.github.io/cpe357)
 
@@ -30,11 +30,24 @@ Winter Quarter 2017
 
 Course Description: 
 
-Instructor: Julie Workman
+Instructor: Chris Buckalew
 
 Fall 2016
 
 [Click here to view projects](https://jonscott20.github.io/cpe103)
+
+-------
+
+[CPE 225 - Computational Art](https://jonscott20.github.io/cpe225)
+------------------------------
+
+Course Description: 
+
+Instructor: Julie Workman
+
+Fall 2016
+
+[Click here to view projects](https://jonscott20.github.io/cpe225)
 
 -------
 
