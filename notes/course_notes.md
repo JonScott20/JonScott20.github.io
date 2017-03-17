@@ -3,7 +3,7 @@ layout: page
 permalink: /course_notes/
 ---
 
-# Course Notes
+## Course Notes
 
 I'll upload the notes that I've taken in class here. This will probably be for my own personal reference.
 
