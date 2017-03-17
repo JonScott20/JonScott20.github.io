@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Employment
+title: Employment History
 permalink: /employment/
 ---
 
@@ -16,7 +16,7 @@ permalink: /employment/
 
 Trained to manage a reservation manifest in order to open and close rental car contracts while promoting excellent customer service
 
-$~$
+-------------
 
 ### Construction Laborer
 
