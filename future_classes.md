@@ -3,7 +3,7 @@ layout: page
 permalink: /future_classes/
 ---
 
-**Upcoming Quarter, Spring 2017**
+**Upcoming Quarter: Spring 2017**
 ------------------
 
 CPE 300 - Professional Responsibilities
@@ -29,7 +29,7 @@ CPE 349 - Design and Analysis of Algorithms
 Course Description: Intermediate and advanced algorithms and their analysis. Mathematical, geometrical, and graph algorithms. NP-complete problems. Additional topics will be chosen from pattern matching, file compression, cryptology, dynamic and linear programming, and exhaustive search.
 
 
- 
+ [Return to Coursework](https://jonscott20.github.io/course_work/)
 
 
 
