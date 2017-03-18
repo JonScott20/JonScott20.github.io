@@ -19,9 +19,9 @@ Project specifications are also availabe upon request.
 
 Course Description: C programming language from a system programming perspective. Standard C language including operators, I/O functions, and data types in the context of system functions. Unix commands, shell scripting, file system, editors.
 
-Programming Language: C
-
 Instructor: Kurt Mammen
+
+Programming Language: C
 
 Winter 2017
 
@@ -34,9 +34,9 @@ Winter 2017
 
 Course Description: Introduction to computer systems. Simple instruction set architecture and the computer hardware needed to implement that architecture. Machine and assembly language programming
 
-Programming Language: Assembly & C
-
 Instructor: John Planck
+
+Programming Language: Assembly & C
 
 Fall 2016
 
