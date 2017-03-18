@@ -6,7 +6,7 @@ permalink: /community_involvment/
 
 ### LoveSlo March 18, 2017
 
-![LoveSlo](https://jonscott20.github.io/Files/Images/WowRama2016.jpg)
+![LoveSlo](https://jonscott20.github.io/Files/Images/LoveSloCLSmithElementary.jpg)
 
 ### Week Of Welcome 2016
 ![WowRama2016](https://jonscott20.github.io/Files/Images/WowRama2016.jpg)
