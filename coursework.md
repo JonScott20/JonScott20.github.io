@@ -4,7 +4,7 @@ title: Course Work
 permalink: /course_work/
 ---
 
-Notes taken in class can be found [here](https://jonscott20.github.io/course_notes/)
+Notes taken in class can be found [here.](https://jonscott20.github.io/course_notes/)
 
 Course Work from the California Polytechnic State University, San Luis Obispo
 
