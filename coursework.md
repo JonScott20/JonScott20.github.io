@@ -6,6 +6,8 @@ permalink: /course_work/
 
 Notes taken in class can be found [here.](https://jonscott20.github.io/course_notes/)
 
+Major related classes I'm taking next quarter can be found [here.](https://jonscott20.github.io/future_classes/)
+
 Course Work from the California Polytechnic State University, San Luis Obispo
 
 All of my code written as a student at Cal Poly is covered under a collaboration agreement. 
