@@ -27,10 +27,10 @@ Winter 2017
 
 --------
 
-[CPE 225 - Computational Art](https://jonscott20.github.io/cpe225)
+[CPE 225 -  Introduction to Computer Organization](https://jonscott20.github.io/cpe225)
 ------------------------------
 
-Course Description: 
+Course Description: Introduction to computer systems. Simple instruction set architecture and the computer hardware needed to implement that architecture. Machine and assembly language programming
 
 Programming Language: Assembly & C
 
