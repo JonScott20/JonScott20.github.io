@@ -17,16 +17,29 @@ permalink: /community_involvment/
 ### Week Of Welcome 2016
 ![WowRama2016](https://jonscott20.github.io/Files/Images/WowRama2016.jpg)
 
+**Description**
+
+
+
 ---------
 
 ### Freshman Move In Day 2016
 ![FreshmanMoveIn2016](https://jonscott20.github.io/Files/Images/FreshmanMoveIn2016.jpg)
 
+**Description**
+
+Moving into Cal Poly was notoriously quite a pain. In this above picture, myself and my co-leader volunteered to help move incoming freshmen into their respective residence halls. Both the students and parents greatly appreciated our efforts. We were happy to make a friendly Cal Poly first impression and welcome the new students to their new communities.
+
 --------
 
 
 ### Growing Grounds
+
 ![GrowingGrounds](https://jonscott20.github.io/Files/Images/GrowingGrounds.jpg)
+
+**Description**
+
+In a joint event between Cal Poly's Sigma Pi and Chi Omega chapters, members of the fraternity and sorority worked together to volunteer for a great cause.
 
 The growing grounds website: <http://www.growinggroundsfarm.org/>
 
