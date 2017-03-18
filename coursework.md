@@ -64,6 +64,8 @@ Course Description: Basic design, implementation, testing, and documentation of 
 
 Instructor: Julie Workman
 
+Programming Language: Java
+
 Spring 2016
 
 [Click here to view projects](https://jonscott20.github.io/cpe102)
@@ -77,6 +79,8 @@ Course Description: Basic principles of algorithmic problem solving and programm
 
 Instructor: Julie Workman
 
+Programming Language: Python
+
 Winter 2016
 
 [Click here to view projects](https://jonscott20.github.io/cpe101)
@@ -89,6 +93,8 @@ Winter 2016
 Course Description: Use of a supportive software development environment to design, develop, and test applications in a selected topic domain that demonstrates the potential of careers in computing. An introduction to computing and to the selected topic domain. The Schedule of Classes will list topic selected. No programming experience required.
 
 Instructor: Julie Workman
+
+Programming Language: Processing
 
 Fall 2015
 
