@@ -14,6 +14,8 @@ All of my code written as a student at Cal Poly is covered under a collaboration
 In order to promote academic honesty, I am only willing to share code samples from the projects when contacted individually.
 Project specifications are also availabe upon request.
 
+--------
+
 [CPE 357 - Systems Programming](https://jonscott20.github.io/cpe357)
 ---------------------------------
 
