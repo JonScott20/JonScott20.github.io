@@ -14,7 +14,9 @@ permalink: /employment/
 
 **Weekly Time Committment:** 10-20 hours (Part-time while attending Cal Poly)
 
-Trained to manage a reservation manifest in order to open and close rental car contracts while promoting excellent customer service
+* Operated rental car software in order to open and close contracts
+* Managed car washers in order to have appropriate vehicles ready for a reservation manifest
+* Generated daily inventory reports and reconciled software records with physical paperwork
 
 -------------
 
@@ -33,7 +35,7 @@ Learned and performed demolition, roofing, framing, siding, soffit, concrete, an
 
 -------------
 
-### Allen and Company Conference in Sun Valley, Seasonal Employee
+### Allen and Company in Sun Valley, Seasonal Employee
 
 **Company:** Hertz (Overland West Inc.)
 
