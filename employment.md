@@ -30,8 +30,9 @@ permalink: /employment/
 
 **Weekly Time Committment:** 40 hours (Full time summer job)
 
-Construction Laborer, Bradley Construction North Inc. (Hailey, ID)   June – September 2015, 2016
-Learned and performed demolition, roofing, framing, siding, soffit, concrete, and finish work
+* Received on the job training and adapted to changing worksites
+* Cooperated with construction team in order to improve work flow and increase effeciency
+* Acquired valuable hands on experience in variety of handyman skills: demolition, roofing, framing, siding, soffit, concrete, and finish work
 
 -------------
 
@@ -45,7 +46,8 @@ Learned and performed demolition, roofing, framing, siding, soffit, concrete, an
 
 **Weekly Time Committment:** The employment for the event runs over a ten day span in July in which the average number of hours worked comes out to between 80-90 hours for each year of the event.
 
-Delivered vehicles to clients disembarking from private aircraft, attended to their luggage, and led them to the resort
-Assisted in cataloguing and organizing the return of rental vehicles in preparation for rapid relocation to alternate Hertz locations in Boise, Bozeman, and Rock Springs
+* Delivered vehicles directly on the tarmac to clients disembarking from private aircraft
+* Shuttled clients to their lodging at the Sun Valley Resort
+* Organized the return of vehicles and prepared them to be transported to other rental locations in Boise, Bozeman, and Rock Springs
 
 [Return to Home](https://jonscott20.github.io/)
