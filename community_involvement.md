@@ -21,8 +21,7 @@ LoveSlo Website: <http://loveslo.com/>
 
 **Dates of Event:** September 18 - 24, 2016
 
-**Description**
-
+**Description:**
 Cal Poly's Week of Welcome (WOW) takes place a week before classes begin in the Fall. Previous students volunteer to lead a group of ten to fifteen students and introduce them to life at Cal Poly. The goal of the program is to introduce the new students to the local community, foster a social atmosphere in order to build strong relationships, and become educated about the various topics and issues that may be encountered while attending the university. 
 
 In order to participate as a WOW leader, students are required to attend a 10 week training program during the spring quarter prior to event. During this time, potential leaders develop their leadership skills, plan the recreational programming for the week, and learn about the various resources available on Cal Poly's campus. Leaders are taught techniques on how to be inclusive and on how to facilitate discussion on tough topics such as mental health, substance abuse, and healthy relationships. 
@@ -36,8 +35,7 @@ Cal Poly Orientation Website: <http://orientation.calpoly.edu/>
 
 **Date of Event:** September 17, 2016
 
-**Description**
-
+**Description:**
 Moving into Cal Poly was notoriously quite a pain. In the image above, myself and my co-leader (from WOW) volunteered to help move incoming freshmen into their respective residence halls. Both the students and parents greatly appreciated our efforts. We were happy to make a friendly first impression and welcome the new students to their new communities.
 
 --------
@@ -49,8 +47,7 @@ Moving into Cal Poly was notoriously quite a pain. In the image above, myself an
 
 **Date of Event:** January 28, 2017
 
-**Description**
-
+**Description:**
 In a joint event between Cal Poly's Sigma Pi and Chi Omega chapters, members of the fraternity and sorority worked together to volunteer for at the Growing Grounds Nursery. The location is a popular place for Cal Poly students to volunteer. As a non-profit organization, Growing Grounds is dependant upon volunteer efforts in order to perform maintenence and daily operations. In this specific instance, a small group and I were given the task of locating a underground leaking irrigation pipe. 
 
 The growing grounds website: <http://www.growinggroundsfarm.org/>
