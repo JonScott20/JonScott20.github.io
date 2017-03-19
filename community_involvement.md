@@ -27,7 +27,7 @@ Cal Poly's Week of Welcome (WOW) takes place a week before classes begin in the 
 
 In order to participate as a WOW leader, students are required to attend a 10 week training program during the spring quarter prior to event. During this time, potential leaders develop their leadership skills, plan the recreational programming for the week, and learn about the various resources available on Cal Poly's campus. Leaders are taught techniques on how to be inclusive and on how to facilitate discussion on tough topics such as mental health, substance abuse, and healthy relationships. 
 
-Orientation Website: <http://orientation.calpoly.edu/>
+Cal Poly Orientation Website: <http://orientation.calpoly.edu/>
 
 ---------
 
