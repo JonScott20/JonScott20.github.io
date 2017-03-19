@@ -33,7 +33,7 @@ A little bit about myself, I was born and raised in the small town of Hailey, Id
 #### Wood River High School, Hailey, Idaho
 - Graduated June 2015 as Valedictorian
 
-**Project Directory**
+### Project Directory
 
 Interested in my work? Take a look at the [project directory](https://jonscott20.github.io/project_directory)
 
