@@ -29,7 +29,7 @@ Winter 2017
 
 --------
 
-[CSC 348 - Discrete Structures](https://jonscott20.github.io/cpe348)
+[CSC 348 - Discrete Structures](https://jonscott20.github.io/csc348)
 ---------------------------------
 
 Course Description: Structures of computer science: logic, sets, relations, functions, graphs and trees. Propositional and predicate logic. Applications of predicate logic to preconditions, postconditions, and proof techniques. Complexity of algorithms.
