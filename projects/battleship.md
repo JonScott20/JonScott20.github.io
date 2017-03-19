@@ -15,6 +15,7 @@ permalink: battleship
 
 There were three processes running for the game. Two players and a host to act as the middle man.
 
+**Language Used: C**
 
 #### Optional Tournament
 
