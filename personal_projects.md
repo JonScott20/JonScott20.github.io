@@ -11,7 +11,7 @@ DigiGenda: Organizational application for iOS.
 
 Read the full project report [here.](https://jonscott20.github.io/Files/Documents/DigiGenda_Project_Report.pdf)
 
-View the presentaiton I used while presenting to the grading panel [here.](https://jonscott20.github.io/Files/Documents/DigiGenda_Project_Presentation.pptx)
+Download the project presentation [here.](https://jonscott20.github.io/Files/Documents/DigiGenda_Project_Presentation.pptx)
 
 ------------
 
