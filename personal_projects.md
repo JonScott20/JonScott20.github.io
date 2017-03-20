@@ -17,7 +17,7 @@ permalink: /personal_projects/
 
 ### Bubble Sort
 
-**Description:** Just a simple web build demonstrating the bubble sort algorithm. I wanted to see how easy it was to build Unity projects and host them on a website.
+**Description:** Just a simple web build demonstrating the bubble sort algorithm. I wanted to see how easy it was to build Unity projects and host them on a website. 
 
 [Click here](https://jonscott20.github.io/Bubble_Sort/BubbleSort) to view the demonstration - Last Updated 12/13/16
 
