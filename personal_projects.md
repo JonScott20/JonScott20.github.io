@@ -4,13 +4,6 @@ title: Personal Projects
 permalink: /personal_projects/
 ---
 
-
-
-------------
-
-**Unity Demonstrations**
-------------------------
-
 ### Combat School
 
 **Description:** For the final project in my advanced game design class in high school, I created a simple first person shooter training ground. Really, its quite silly because the projectiles are large red balls that explode on impact, but I had fun making it and experimenting with different components of the genre. The project was created using C# in Unity and some of the art assets were acquired from Unity's asset store. And yes, that is high school me doing all the narration.
