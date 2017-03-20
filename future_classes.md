@@ -37,7 +37,7 @@ Course Description: Intermediate and advanced algorithms and their analysis. Mat
 Instructor: Theresa Migler-VonDollen 
 
 
- [Return to Coursework](https://jonscott20.github.io/course_work/)
+ [Return to Course Work](https://jonscott20.github.io/course_work/)
 
 
 
