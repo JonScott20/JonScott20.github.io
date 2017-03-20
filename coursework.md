@@ -115,4 +115,6 @@ Fall 2015
 
 [Click here to view projects](https://jonscott20.github.io/cpe123)
 
+----------
+
 [Return to Home](https://jonscott20.github.io/)
