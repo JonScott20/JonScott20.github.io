@@ -10,6 +10,8 @@ permalink: /personal_projects/
 **Description:** Just a simple web build demonstrating the bubble sort algorithm. I wanted to see how easy it was to build Unity projects and host them on a website. 
 
 **Approximate Date:** December 2016
+
+#### Bubble Sort Viewport
 ![BubbleSort](https://jonscott20.github.io/Files/Images/BubbleSort.png)
 
 [Click here](https://jonscott20.github.io/Bubble_Sort/BubbleSort) to view a web build of the project
@@ -22,6 +24,7 @@ permalink: /personal_projects/
 
 **Approximate Date:** Spring of 2015
 
+#### Combat School UI
 ![Combat School](https://jonscott20.github.io/Files/Images/CombatSchool.png)
 
 [Click here](https://www.youtube.com/watch?v=aIx4804GbLk) to view a video playthrough of the project. 
