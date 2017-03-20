@@ -9,8 +9,7 @@ permalink: /personal_projects/
 
 **Description:** Just a simple web build demonstrating the bubble sort algorithm. I wanted to see how easy it was to build Unity projects and host them on a website. 
 
-**Approximate Date:** 12/13/16
-
+**Approximate Date:** December 12, 2016
 ![BubbleSort](https://jonscott20.github.io/Files/Images/BubbleSort.png)
 
 [Click here](https://jonscott20.github.io/Bubble_Sort/BubbleSort) to view a web build of the project
