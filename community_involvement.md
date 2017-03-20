@@ -66,6 +66,8 @@ When local farms have extra produce that they decide not to harvest, they call i
 
 The GleanSLO website: <http://www.gleanslo.org/>
 
+---------
+
 [Return to Home](https://jonscott20.github.io/)
 
 
