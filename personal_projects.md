@@ -12,15 +12,15 @@ permalink: /personal_projects/
 
 #### Regular
 
-![BubbleSort](https://jonscott20.github.io/Files/Images/BubbleSort.png)
+![Lights Out Regular](https://jonscott20.github.io/Files/Images/LightsOut.png)
 
 #### Reduced Sight
 
-![BubbleSort](https://jonscott20.github.io/Files/Images/BubbleSort.png)
+![Darkened Viewing](https://jonscott20.github.io/Files/Images/LightsOutDark.png)
 
 #### Losing Animation
 
-![BubbleSort](https://jonscott20.github.io/Files/Images/BubbleSort.png)
+![Angel Animation](https://jonscott20.github.io/Files/Images/LightsOutDead.png)
 
 ----------
 
