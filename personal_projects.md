@@ -11,7 +11,7 @@ permalink: /personal_projects/
 
 **Approximate Date:** 12/13/16
 
-[BubbleSort](https://jonscott20.github.io/Files/Images/BubbleSort.png)
+![BubbleSort](https://jonscott20.github.io/Files/Images/BubbleSort.png)
 
 [Click here](https://jonscott20.github.io/Bubble_Sort/BubbleSort) to view a web build of the project
 
@@ -23,7 +23,7 @@ permalink: /personal_projects/
 
 **Approximate Date:** Spring of 2015
 
-[Combat School](https://jonscott20.github.io/Files/Images/CombatSchool.png)
+![Combat School](https://jonscott20.github.io/Files/Images/CombatSchool.png)
 
 [Click here](https://www.youtube.com/watch?v=aIx4804GbLk) to view a video playthrough of the project. 
 
