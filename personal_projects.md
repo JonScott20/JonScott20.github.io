@@ -9,6 +9,8 @@ permalink: /personal_projects/
 
 DigiGenda: Organizational application for iOS.
 
+![DigiGenda Calendar](https://jonscott20.github.io/Files/Images/DigiGenda_Used_Calendar.PNG)
+
 Read the full project report [here.](https://jonscott20.github.io/Files/Documents/DigiGenda_Project_Report.pdf)
 
 Download the project presentation [here.](https://jonscott20.github.io/Files/Documents/DigiGenda_Project_Presentation.pptx)
