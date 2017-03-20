@@ -4,16 +4,7 @@ title: Personal Projects
 permalink: /personal_projects/
 ---
 
-**High School Senior Project**
-------------------------------
 
-DigiGenda: Organizational application for iOS.
-
-![DigiGenda Calendar](https://jonscott20.github.io/Files/Images/DigiGenda_Used_Calendar.PNG)
-
-Read the full project report [here.](https://jonscott20.github.io/Files/Documents/DigiGenda_Project_Report.pdf)
-
-Download the project presentation [here.](https://jonscott20.github.io/Files/Documents/DigiGenda_Project_Presentation.pptx)
 
 ------------
 
@@ -35,5 +26,20 @@ Download the project presentation [here.](https://jonscott20.github.io/Files/Doc
 [Click here](https://jonscott20.github.io/Bubble_Sort/BubbleSort) to view the demonstration - Last Updated 12/13/16
 
 -----------
+
+**High School Senior Project**
+------------------------------
+
+DigiGenda: Organizational application for iOS.
+
+![DigiGenda Title Screen](https://jonscott20.github.io/Files/Images/DigiGenda_Title.PNG)
+
+![DigiGenda Calendar](https://jonscott20.github.io/Files/Images/DigiGenda_Used_Calendar.PNG)
+
+Read the full project report [here.](https://jonscott20.github.io/Files/Documents/DigiGenda_Project_Report.pdf)
+
+Download the project presentation [here.](https://jonscott20.github.io/Files/Documents/DigiGenda_Project_Presentation.pptx)
+
+---------------
 
 [Return to Home](https://jonscott20.github.io/)
