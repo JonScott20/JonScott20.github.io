@@ -4,19 +4,28 @@ title: Personal Projects
 permalink: /personal_projects/
 ---
 
-### Combat School
-
-**Description:** For the final project in my advanced game design class in high school, I created a simple first person shooter training ground. Really, its quite silly because the projectiles are large red balls that explode on impact, but I had fun making it and experimenting with different components of the genre. The project was created using C# in Unity and some of the art assets were acquired from Unity's asset store. And yes, that is high school me doing all the narration.
-
-[Click here](https://www.youtube.com/watch?v=aIx4804GbLk) to view a playthrough of the game. 
-
------------
 
 ### Bubble Sort
 
 **Description:** Just a simple web build demonstrating the bubble sort algorithm. I wanted to see how easy it was to build Unity projects and host them on a website. 
 
-[Click here](https://jonscott20.github.io/Bubble_Sort/BubbleSort) to view the demonstration - Last Updated 12/13/16
+**Approximate Date:** 12/13/16
+
+[BubbleSort](https://jonscott20.github.io/Files/Images/BubbleSort.png)
+
+[Click here](https://jonscott20.github.io/Bubble_Sort/BubbleSort) to view a web build of the project
+
+--------
+
+### Combat School
+
+**Description:** For the final project in my advanced game design class in high school, I created a simple first person shooter training ground. Really, its quite silly because the projectiles are large red balls that explode on impact, but I had fun making it and experimenting with different components of the genre. The project was created using C# in Unity and some of the art assets were acquired from Unity's asset store. And yes, that is high school me doing all the narration.
+
+**Approximate Date:** Spring of 2015
+
+[Combat School](https://jonscott20.github.io/Files/Images/CombatSchool.png)
+
+[Click here](https://www.youtube.com/watch?v=aIx4804GbLk) to view a video playthrough of the project. 
 
 -----------
 
@@ -24,6 +33,8 @@ permalink: /personal_projects/
 
 **Description:** 
 In order to meet graduatation requirements from Wood River High School, students are required to complete a independent senior project in order to demonstrate their ability to conduct research, explore interesting careers, and learn new skills. I chose to create an iOS application focusing on improving student time management and organization. 
+
+**Approximate Date:** Summer of 2014
 
 #### DigiGenda Title Screen
 ![DigiGenda Title Screen](https://jonscott20.github.io/Files/Images/DigiGenda_Title.PNG)
