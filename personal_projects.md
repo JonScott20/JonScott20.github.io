@@ -27,13 +27,15 @@ permalink: /personal_projects/
 
 -----------
 
-**High School Senior Project**
-------------------------------
+### DigiGenda: Organizational Application for iOS
 
-DigiGenda: Organizational application for iOS.
+**Description:** 
+In order to meet graduatation requirements from Wood River High School, students are required to complete a independent senior project in order to demonstrate their ability to conduct research, explore interesting careers, and learn new skills. I chose to create an iOS application focusing on improving student time management and organization. 
 
+#### DigiGenda Title Screen
 ![DigiGenda Title Screen](https://jonscott20.github.io/Files/Images/DigiGenda_Title.PNG)
 
+#### DigiGenda Example Calendar Usage
 ![DigiGenda Calendar](https://jonscott20.github.io/Files/Images/DigiGenda_Used_Calendar.PNG)
 
 Read the full project report [here.](https://jonscott20.github.io/Files/Documents/DigiGenda_Project_Report.pdf)
