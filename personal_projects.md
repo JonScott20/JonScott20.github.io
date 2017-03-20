@@ -4,6 +4,25 @@ title: Personal Projects
 permalink: /personal_projects/
 ---
 
+### Lights Out
+
+**Description:** A friend ([Robert Weber](http://www.rawprogramming.com/#/Home)) and I decided to get together and create an Android game in one night as a challenge. We went from brainstorming to completion in approximately 11 hours. The result was a simple 2D side scroller where the protagonist must jump over the spikes. The catch is that distance that the user can see the upcoming spikes from changes.
+
+**Approximate Date:** November 2016
+
+#### Regular
+
+![BubbleSort](https://jonscott20.github.io/Files/Images/BubbleSort.png)
+
+#### Reduced Sight
+
+![BubbleSort](https://jonscott20.github.io/Files/Images/BubbleSort.png)
+
+#### Losing Animation
+
+![BubbleSort](https://jonscott20.github.io/Files/Images/BubbleSort.png)
+
+----------
 
 ### Bubble Sort
 
@@ -12,6 +31,7 @@ permalink: /personal_projects/
 **Approximate Date:** December 2016
 
 #### Bubble Sort Viewport
+
 ![BubbleSort](https://jonscott20.github.io/Files/Images/BubbleSort.png)
 
 [Click here](https://jonscott20.github.io/Bubble_Sort/BubbleSort) to view a web build of the project
@@ -25,6 +45,7 @@ permalink: /personal_projects/
 **Approximate Date:** Spring of 2015
 
 #### Combat School UI
+
 ![Combat School](https://jonscott20.github.io/Files/Images/CombatSchool.png)
 
 [Click here](https://www.youtube.com/watch?v=aIx4804GbLk) to view a video playthrough of the project. 
@@ -39,9 +60,11 @@ In order to meet graduatation requirements from Wood River High School, students
 **Approximate Date:** Summer of 2014
 
 #### DigiGenda Title Screen
+
 ![DigiGenda Title Screen](https://jonscott20.github.io/Files/Images/DigiGenda_Title.PNG)
 
 #### DigiGenda Example Calendar Usage
+
 ![DigiGenda Calendar](https://jonscott20.github.io/Files/Images/DigiGenda_Used_Calendar.PNG)
 
 Read the full project report [here.](https://jonscott20.github.io/Files/Documents/DigiGenda_Project_Report.pdf)
