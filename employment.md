@@ -50,4 +50,6 @@ permalink: /employment/
 * Shuttled clients to their lodging at the Sun Valley Resort
 * Organized the return of vehicles and prepared them to be transported to other rental locations in Boise, Bozeman, and Rock Springs
 
+----------
+
 [Return to Home](https://jonscott20.github.io/)
