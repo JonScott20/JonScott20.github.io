@@ -9,7 +9,9 @@ permalink: /personal_projects/
 
 DigiGenda: Organizational application for iOS.
 
-Read the full project report [here.](https://jonscott20.github.io/Files/Documents/DigiGenda Project Report.pdf)
+Read the full project report [here.](https://jonscott20.github.io/Files/Documents/DigiGenda_Project_Report.pdf)
+
+------------
 
 **Unity Demonstrations**
 ------------------------
