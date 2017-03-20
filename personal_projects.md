@@ -4,6 +4,13 @@ title: Personal Projects
 permalink: /personal_projects/
 ---
 
+**High School Senior Project**
+------------------------------
+
+DigiGenda: Organizational application for iOS.
+
+Read the full project report [here.](https://jonscott20.github.io/Files/Documents/DigiGenda_Project_Report.pdf)
+
 **Unity Demonstrations**
 ------------------------
 
