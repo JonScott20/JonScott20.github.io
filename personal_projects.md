@@ -4,7 +4,7 @@ title: Personal Projects
 permalink: /personal_projects/
 ---
 
-### Lights Out
+### [Lights Out](https://jonscott20.github.io/lights_out)
 
 **Description:** A friend ([Robert Weber](http://www.rawprogramming.com/#/Home)) and I decided to get together and create an Android game in one night as a challenge. We went from brainstorming to completion in approximately 11 hours. The result was a simple 2D side scroller where the protagonist must jump over the spikes. The catch is that distance that the user can see the upcoming spikes from changes.
 
@@ -24,7 +24,7 @@ permalink: /personal_projects/
 
 ----------
 
-### Bubble Sort
+### [Bubble Sort](https://jonscott20.github.io/bubble_sort)
 
 **Description:** Just a simple web build demonstrating the bubble sort algorithm. I wanted to see how easy it was to build Unity projects and host them on a website. 
 
@@ -38,7 +38,7 @@ permalink: /personal_projects/
 
 --------
 
-### Combat School
+### [Combat School](https://jonscott20.github.io/combat_school)
 
 **Description:** For the final project in my advanced game design class in high school, I created a simple first person shooter training ground. Really, its quite silly because the projectiles are large red balls that explode on impact, but I had fun making it and experimenting with different components of the genre. The project was created using C# in Unity and some of the art assets were acquired from Unity's asset store. And yes, that is high school me doing all the narration.
 
@@ -52,7 +52,7 @@ permalink: /personal_projects/
 
 -----------
 
-### DigiGenda: Organizational Application for iOS
+### [DigiGenda: Organizational Application for iOS](https://jonscott20.github.io/digigenda)
 
 **Description:** 
 In order to meet graduatation requirements from Wood River High School, students are required to complete a independent senior project in order to demonstrate their ability to conduct research, explore interesting careers, and learn new skills. I chose to create an iOS application focusing on improving student time management and organization. 
