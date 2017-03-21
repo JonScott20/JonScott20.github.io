@@ -53,8 +53,6 @@ Programming Language: Assembly & C
 
 Fall 2016
 
-[Click here to view projects](https://jonscott20.github.io/cpe225)
-
 -------
 
 [CPE 103 - Fundamentals of Computer Science III](https://jonscott20.github.io/cpe103)
@@ -67,8 +65,6 @@ Instructor: Chris Buckalew
 Programming Language: Java
 
 Fall 2016
-
-[Click here to view projects](https://jonscott20.github.io/cpe103)
 
 -------
 
@@ -83,8 +79,6 @@ Programming Language: Java
 
 Spring 2016
 
-[Click here to view projects](https://jonscott20.github.io/cpe102)
-
 -------
 
 [CPE 101 - Fundamentals of Computer Science I](https://jonscott20.github.io/cpe101)
@@ -97,8 +91,6 @@ Instructor: Julie Workman
 Programming Language: Python
 
 Winter 2016
-
-[Click here to view projects](https://jonscott20.github.io/cpe101)
 
 -------
 
