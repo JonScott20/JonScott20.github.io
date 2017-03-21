@@ -6,6 +6,10 @@ permalink: battleship
 **Battleship**
 --------------
 
+**Project Type:** Class - CPE 357
+
+**Language Used: C**
+
 **Learning Objectives**
 
 * Use multiple processes to simluate the classic board game Battleship on a 10x10 game board
@@ -15,7 +19,7 @@ permalink: battleship
 
 There were three processes running for the game. Two players and a host to act as the middle man.
 
-**Language Used: C**
+
 
 #### Optional Tournament
 
