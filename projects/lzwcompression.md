@@ -6,6 +6,8 @@ permalink: lzwcompression
 **LZW Compression Encoder**
 --------------
 
+**Project Type:** School - CPE 357
+
 **Language Used: C**
 
 **Learning Objectives**
