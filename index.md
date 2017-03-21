@@ -37,3 +37,5 @@ Interested in my work? Take a look at the [project directory](https://jonscott20
 
 **Resume:**
 [Click Here](https://jonscott20.github.io/Files/Documents/Resume03-16-17.pdf)
+
+**Transcript:** Please reach out to me for an unofficial transcript
