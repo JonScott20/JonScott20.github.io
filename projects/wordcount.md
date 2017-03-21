@@ -3,8 +3,6 @@ layout: page
 permalink: wordcount
 ---
 
-http://pubs.opengroup.org/onlinepubs/9699919799/utilities/wc.html
-
 **Word Count**
 --------------
 
