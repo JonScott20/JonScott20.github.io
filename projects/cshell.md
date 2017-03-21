@@ -16,7 +16,7 @@ permalink: cshell
 * Create a I/O pipeline between processes by connecting the standard output of one process to the standard input of the next
 * Support redirection from files for both input and output
 
-**Example Command: **
+**Example Command:** 
 cat input.txt | sort -rn | uniq -c | head -10
 
 **Hardest Part**
