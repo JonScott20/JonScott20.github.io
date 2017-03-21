@@ -19,9 +19,9 @@ In order to meet graduatation requirements from Wood River High School, students
 
 ![DigiGenda Calendar](https://jonscott20.github.io/Files/Images/DigiGenda_Used_Calendar.PNG)
 
-Read the full project report [here.](https://jonscott20.github.io/Files/Documents/DigiGenda_Project_Report.pdf)
+Read the full project report [here](https://jonscott20.github.io/Files/Documents/DigiGenda_Project_Report.pdf)
 
-Download the project presentation [here.](https://jonscott20.github.io/Files/Documents/DigiGenda_Project_Presentation.pptx)
+Download the project presentation [here](https://jonscott20.github.io/Files/Documents/DigiGenda_Project_Presentation.pptx)
 
 ----------
 
