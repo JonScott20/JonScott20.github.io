@@ -33,6 +33,10 @@ The trie data structure enabled a dictionary to be built and store large strings
 
 Please reach out to me individually if you would like to know how I met performance and memory standards. I don't want to give too much away about how to compete with the instructor solution.
 
+**Important Note**
+
+For the scope of this class project, only the encoding portion of the LZW algorithm was implemented. We did not implement the decoder.
+
 ----------
 
 [Return to Course Work](https://jonscott20.github.io/course_work/)
