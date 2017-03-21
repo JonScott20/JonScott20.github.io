@@ -24,7 +24,7 @@ All of my code written as a student at Cal Poly is covered under a collaboration
 |--------------------------------------------------------| :-----------: | :-----------: |
 | [Battleship](https://jonscott20.github.io/battleship)  |School       |CPE 357      |
 | [Bubble Sort](https://jonscott20.github.io/bubble_sort)|Personal     |Personal     | 
-| Third line      |quux        | baz             | bar            |
+| #####################     |###########        | ##########           | bar            |
 |-----------------+------------+-----------------+----------------|
 | Second body     |            |                 |                |
 | 2 line          |            |                 |                |
