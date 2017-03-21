@@ -31,6 +31,4 @@ All of my code written as a student at Cal Poly is covered under a collaboration
 |=================+============+=================+================|
 | Footer row      |            |                 |                |
 |-----------------+------------+-----------------+----------------|
-
-	⋅⋅leading⋅tab	and⋅space
-trailing⋅⋅⋅tab⋅and⋅space⋅⋅⋅⋅	
+	
