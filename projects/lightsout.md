@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: lightsout
+permalink: lights_out
 ---
 
 **Lights Out**
