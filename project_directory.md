@@ -19,8 +19,8 @@ All of my code written as a student at Cal Poly is covered under a collaboration
 * [Word Count](https://jonscott20.github.io/wordcount) (Under Construction)
 * [Word Frequency](https://jonscott20.github.io/wordfrequency) (Under Construction)
 
-|-----------------+------------+-----------------+----------------|
-| Default aligned |Left aligned| Center aligned  | Right aligned  |
+|----------------------------------------------------------------------------+------------+-----------------+----------------|
+| Project Name | Project Type   |
 |-----------------|:-----------|:---------------:|---------------:|
 | First body part |Second cell | Third cell      | fourth cell    |
 | Second line     |foo         | **strong**      | baz            |
