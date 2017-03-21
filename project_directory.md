@@ -19,10 +19,15 @@ All of my code written as a student at Cal Poly is covered under a collaboration
 * [Word Count](https://jonscott20.github.io/wordcount) (Under Construction)
 * [Word Frequency](https://jonscott20.github.io/wordfrequency) (Under Construction)
 
-|--------------------------------------------------------|---------------|---------------|
-|         Name                                           |         Type  | Class         |
-|--------------------------------------------------------| :-----------: | -----------: |
-| [Battleship](https://jonscott20.github.io/battleship)  |School         |CPE 357      |
+|------------------------------------------------------------|---------------|---------------|
+|         Name                                               |         Type  | Class         |
+|------------------------------------------------------------| :-----------: | -----------: |
+| [Battleship](https://jonscott20.github.io/battleship)      |School         |CPE 357      |
+| [Bubble Sort](https://jonscott20.github.io/bubble_sort)    |Personal       |Personal     |
+| [[C - Shell](https://jonscott20.github.io/cshell)          |School        |CPE 357      | 
+| [Combat School](https://jonscott20.github.io/combat_school)|Personal       |Personal     | 
+| [DigiGenda](https://jonscott20.github.io/digigenda)        |Personal       |Personal     | 
+| [Lights Out](https://jonscott20.github.io/lights_out)      |Personal       |Personal     | 
 | [Bubble Sort](https://jonscott20.github.io/bubble_sort)|Personal       |Personal     | 
 |-----------------+------------+-----------------+----------------|
 | Second body     |            |                 |                |
