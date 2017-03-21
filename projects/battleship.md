@@ -8,7 +8,7 @@ permalink: battleship
 
 **Project Type:** School - CPE 357
 
-**Language Used: C**
+**Language Used:** C
 
 **Learning Objectives**
 
