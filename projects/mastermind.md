@@ -12,11 +12,9 @@ permalink: mastermind
 
 **Learning Objectives**
 
-* Launch multiple processes sequentially from within a bare bones Unix shell implementation
-* Create a I/O pipeline between processes by connecting the standard output of one process to the standard input of the next
-* Support redirection from files for both input and output
-
-
+* Replicate the [Mastermind](https://en.wikipedia.org/wiki/Mastermind_(board_game)) board game, with up to 8 key pegs instead of the standard 4
+* Use standard C library functions in order to randomize key peg placement
+* Practice functional decomposition in order to reduce code complexity
 
 ---------
 
