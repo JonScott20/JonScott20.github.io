@@ -19,11 +19,11 @@ All of my code written as a student at Cal Poly is covered under a collaboration
 * [Word Count](https://jonscott20.github.io/wordcount) (Under Construction)
 * [Word Frequency](https://jonscott20.github.io/wordfrequency) (Under Construction)
 
-|----------------------------------------------------------------------------+------------+-----------------+----------------|
-| Project Name | Project Type   |
-|-----------------|:-----------|:---------------:|---------------:|
-| First body part |Second cell | Third cell      | fourth cell    |
-| Second line     |foo         | **strong**      | baz            |
+|--------------+------------|
+| Project Name |Project Type|
+|--------------|:-----------:||
+| [Battleship](https://jonscott20.github.io/battleship)|Cal Poly - CPE 357|
+| [Bubble Sort](https://jonscott20.github.io/bubble_sort)|(Personal Project)| 
 | Third line      |quux        | baz             | bar            |
 |-----------------+------------+-----------------+----------------|
 | Second body     |            |                 |                |
