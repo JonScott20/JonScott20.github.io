@@ -19,7 +19,7 @@ All of my code written as a student at Cal Poly is covered under a collaboration
 * [Word Count](https://jonscott20.github.io/wordcount) (Under Construction)
 * [Word Frequency](https://jonscott20.github.io/wordfrequency) (Under Construction)
 
-|--------------------------------------------------------+-------------+---------------------|
+|--------------------------------------------------------|---------------|---------------|
 | Project Name                                           | Project Type  | Class         |
 |--------------------------------------------------------| :-----------: | :-----------: |
 | .________________________.   | ._______________.        | .________________.      |
