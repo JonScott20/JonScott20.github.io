@@ -20,7 +20,7 @@ All of my code written as a student at Cal Poly is covered under a collaboration
 * [Word Frequency](https://jonscott20.github.io/wordfrequency) (Under Construction)
 
 |--------------------------------------------------------|---------------|---------------|
-| Project Name                                           | Project Type  | Class         |
+|         Name                                           |         Type  | Class         |
 |:------------------------------------------------------:| :-----------: | :-----------: |
 | [Battleship](https://jonscott20.github.io/battleship)  |School       |CPE 357      |
 | [Bubble Sort](https://jonscott20.github.io/bubble_sort)|Personal     |Personal     | 
