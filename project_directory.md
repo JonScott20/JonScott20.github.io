@@ -18,3 +18,7 @@ All of my code written as a student at Cal Poly is covered under a collaboration
 * [Mastermind](https://jonscott20.github.io/mastermind)
 * [Word Count](https://jonscott20.github.io/wordcount)
 * [Word Frequency](https://jonscott20.github.io/wordfrequency)
+
+---------
+
+[Return to Home](https://jonscott20.github.io/)
