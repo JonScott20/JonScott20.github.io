@@ -6,7 +6,7 @@ permalink: battleship
 **Battleship**
 --------------
 
-**Project Type:** Class - CPE 357
+**Project Type:** School - CPE 357
 
 **Language Used: C**
 
