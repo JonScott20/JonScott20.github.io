@@ -39,7 +39,7 @@ True if p and q have the same truth value; false otherwise
 Order of Operations with logical operators
 1. ~ Negation
 2. /\ And (Conjunction)
-3. \// Or (Disjunction)
+3. \\/ Or (Disjunction)
 4. -> Implication
 5. <-> Biconditional
 
