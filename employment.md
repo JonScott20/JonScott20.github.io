@@ -4,13 +4,23 @@ title: Employment History
 permalink: /employment/
 ---
 
-### Rental Car Counter Agent
+### Software Development Contractor
 
-**Company:** Hertz (Indepentent Licensee)
+**Company:** Process Expert
 
 **Location:** San Luis Obispo, California
 
-**Period of Employment:** October 2016 – Present
+**Period of Employment:** May 2017 – Present
+
+-------------
+
+### Rental Car Counter Agent
+
+**Company:** Hertz (Independent Licensee)
+
+**Location:** San Luis Obispo, California
+
+**Period of Employment:** October 2016 – April 2017
 
 **Weekly Time Committment:** 10-20 hours (Part-time while attending Cal Poly)
 
