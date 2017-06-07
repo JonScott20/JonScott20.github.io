@@ -3,6 +3,16 @@ layout: page
 title: Community Involvement
 permalink: /community_involvment/
 ---
+### RFID - IEEE Conference Phoenix, AZ 
+
+![LoveSlo](https://jonscott20.github.io/Files/Images/LoveSloCLSmithElementary.jpg)
+
+**Date of Event:** May 10, 2017
+
+**Description:**
+I traveled to Phoenix with Cal Poly's RFID club in order volunteer for the conference and the opportunity to sit in on the various talks given by RFID industry leaders. As a volunteer, I chaired several IT professional sessions and ran microphones during the keynote sessions.
+
+---------
 
 ### LoveSlo Citywide Community Service Event
 
