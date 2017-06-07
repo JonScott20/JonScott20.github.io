@@ -5,7 +5,7 @@ permalink: /community_involvment/
 ---
 ### RFID - IEEE Conference Phoenix, AZ 
 
-![LoveSlo](https://jonscott20.github.io/Files/Images/LoveSloCLSmithElementary.jpg)
+![LoveSlo](https://jonscott20.github.io/Files/Images/RFID_Conference.jpeg)
 
 **Date of Event:** May 10, 2017
 
