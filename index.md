@@ -40,6 +40,8 @@ Interested in my work? Take a look at the [project directory](https://jonscott20
 
 **Transcript:** Please reach out to me for an unofficial transcript
 
+
+### Personality
 [Myers-Briggs Personality:](http://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/) INTJ
 
 
