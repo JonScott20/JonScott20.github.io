@@ -16,6 +16,19 @@ Project specifications are also availabe upon request.
 
 --------
 
+[CSC 365 - Introduction to Databases](https://jonscott20.github.io/csc365)
+---------------------------------
+
+Course Description: Basic principles of database management systems (DBMS) and of DBMS application development. DBMS objectives, systems architecture, database models with emphasis on Entity-Relationship and Relational models, data definition and manipulation languages, the Structured Query Language (SQL), database design, application development tools.
+
+Instructor: Kurt Mammen
+
+Programming Language: mySQL
+
+Summer 2017
+
+--------
+
 [CPE 357 - Systems Programming](https://jonscott20.github.io/cpe357)
 ---------------------------------
 
@@ -31,6 +44,17 @@ Winter 2017
 
 --------
 
+[CSC 349 - Discrete Structures](https://jonscott20.github.io/csc349)
+---------------------------------
+
+Course Description: Intermediate and advanced algorithms and their analysis. Mathematical, geometrical, and graph algorithms. NP-complete problems. Additional topics will be chosen from pattern matching, file compression, cryptology, dynamic and linear programming, and exhaustive search.
+
+Instructor: Theresa Migler-VonDollen
+
+Summer 2017
+
+---------
+
 [CSC 348 - Discrete Structures](https://jonscott20.github.io/csc348)
 ---------------------------------
 
@@ -39,6 +63,39 @@ Course Description: Structures of computer science: logic, sets, relations, func
 Instructor: Theresa Migler-VonDollen
 
 Winter 2017
+
+---------
+
+[CSC 321 - Introduction to Computer Security](https://jonscott20.github.io/csc321)
+---------------------------------
+
+Course Description: Survey of topics in computer system and network security, including protection, access control, distributed access control, operating system security, applied cryptography, network security, firewalls, secure coding practices, and case studies from real-world systems.
+
+Instructor: Phillip Nico
+
+Spring Quarter 2017
+
+---------
+
+[CSC 307 - Introduction to Software Engineering](https://jonscott20.github.io/csc307)
+---------------------------------
+
+Course Description: Requirements, specification, design, implementation, testing and verification of large software systems. Study and use of the software process and software engineering methodologies; working in project teams.
+
+Instructor: Davide Falessi
+
+Spring Quarter 2017
+
+-----------
+
+[CSC 300 - Professional Responsibilities](https://jonscott20.github.io/csc300)
+---------------------------------
+
+Course Description: The responsibilities of the computer science professional. The ethics of science and the IEEE/ACM Software Engineering Code of Ethics. Quality tradeoffs, software system safety, intellectual property, history of computing and the social implications of computers in the modern world. Applications to ethical dilemmas in computing
+
+Instructor: Nikolaos Sakellariou
+
+Spring Quarter 2017
 
 ---------
 
@@ -54,6 +111,21 @@ Programming Language: Assembly & C
 Fall 2016
 
 -------
+
+[CPE 123 - Computational Art](https://jonscott20.github.io/cpe123)
+------------------------------
+
+Course Description: Use of a supportive software development environment to design, develop, and test applications in a selected topic domain that demonstrates the potential of careers in computing. An introduction to computing and to the selected topic domain. The Schedule of Classes will list topic selected. No programming experience required.
+
+Instructor: Julie Workman
+
+Programming Language: Processing
+
+Fall 2015
+
+[Click here to view projects](https://jonscott20.github.io/cpe123)
+
+----------
 
 [CPE 103 - Fundamentals of Computer Science III](https://jonscott20.github.io/cpe103)
 ------------------------------
@@ -92,21 +164,6 @@ Programming Language: Python
 
 Winter 2016
 
--------
-
-[CPE 123 - Computational Art](https://jonscott20.github.io/cpe123)
-------------------------------
-
-Course Description: Use of a supportive software development environment to design, develop, and test applications in a selected topic domain that demonstrates the potential of careers in computing. An introduction to computing and to the selected topic domain. The Schedule of Classes will list topic selected. No programming experience required.
-
-Instructor: Julie Workman
-
-Programming Language: Processing
-
-Fall 2015
-
-[Click here to view projects](https://jonscott20.github.io/cpe123)
-
-----------
+--------
 
 [Return to Home](https://jonscott20.github.io/)
