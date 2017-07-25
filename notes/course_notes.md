@@ -7,6 +7,7 @@ permalink: /course_notes/
 ----------------
 
 I'll upload the notes that I've taken in class here. This will probably be for my own personal reference.
+
 **CSC 365 - Introduction to Databases**
 [Click Here](https://jonscott20.github.io/Files/Documents/csc365Vocab.pdf)
 
