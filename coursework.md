@@ -21,9 +21,9 @@ Project specifications are also availabe upon request.
 
 Course Description: Basic principles of database management systems (DBMS) and of DBMS application development. DBMS objectives, systems architecture, database models with emphasis on Entity-Relationship and Relational models, data definition and manipulation languages, the Structured Query Language (SQL), database design, application development tools.
 
-Instructor: Kurt Mammen
+Instructor: Clint Staley
 
-Programming Language: mySQL
+Programming Language: MySQL, Java (JDBC)
 
 Summer 2017
 
